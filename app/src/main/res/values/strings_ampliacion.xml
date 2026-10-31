@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pac_titulo_gestion">Gestión de pacientes</string>
+    <string name="pac_hint_nuhsa">NUHSA del paciente</string>
+    <string name="pac_btn_buscar">Buscar paciente</string>
+    <string name="pac_btn_aleatorio">Insertar paciente aleatorio</string>
+    <string name="pac_etiqueta_ampliacion">Nuevas funcionalidades</string>
+    <string name="pac_btn_listado">Listado de pacientes</string>
+    <string name="pac_btn_nuevo">Nuevo paciente</string>
+
+    <string name="pac_titulo_ficha">Ficha del paciente</string>
+    <string name="pac_etiqueta_nuhsa">NUHSA</string>
+    <string name="pac_etiqueta_nombre">Nombre</string>
+    <string name="pac_etiqueta_apellidos">Apellidos</string>
+    <string name="pac_etiqueta_grupo">Grupo sanguíneo</string>
+    <string name="pac_etiqueta_fecha">Fecha de nacimiento</string>
+    <string name="pac_etiqueta_edad">Edad</string>
+    <string name="pac_formato_edad">%1$d años</string>
+    <string name="pac_sin_registrar">Sin registrar</string>
+    <string name="pac_btn_editar">Editar</string>
+    <string name="pac_btn_borrar">Eliminar</string>
+
+    <string name="pac_titulo_listado">Listado de pacientes</string>
+    <string name="pac_etiqueta_filtro">Filtrar por grupo:</string>
+    <string name="pac_contador">Pacientes mostrados: %1$d</string>
+    <string name="pac_ayuda_listado">Pulse un paciente para ver su ficha. Mantenga pulsado para eliminarlo.</string>
+
+    <string name="pac_titulo_nuevo">Nuevo paciente</string>
+    <string name="pac_titulo_editar">Editar paciente</string>
+    <string name="pac_hint_nombre">Nombre</string>
+    <string name="pac_hint_apellidos">Apellidos</string>
+    <string name="pac_btn_fecha">Elegir fecha</string>
+    <string name="pac_sin_fecha">Fecha de nacimiento sin seleccionar</string>
+    <string name="pac_btn_guardar">Guardar</string>
+</resources>
